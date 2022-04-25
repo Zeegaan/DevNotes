@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "84069f6f4f3b320f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8972b5eee0f5e14e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Nuget/Nuget sources.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3739908cd8d4326",
+    "type": "split",
+    "children": [
+      {
+        "id": "64c365ee69be5101",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6754185096991e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "11ce2f4a20d8d922",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21c73ccfaf772cf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "62014decb3a4c017",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d73769dee694f2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nuget/Nuget sources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8972b5eee0f5e14e",
+  "lastOpenFiles": [
+    "Nuget/Nuget sources.md",
+    "Repositories/Services should be in Core.md",
+    "Conventions for language files.md",
+    "Repositories/Non-nullable collections.md"
+  ]
+}
