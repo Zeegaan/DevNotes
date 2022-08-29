@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nuget/Nuget sources.md",
+            "file": "Examine/Custom indexing.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 653.5
   },
   "right": {
     "id": "21c73ccfaf772cf1",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nuget/Nuget sources.md",
+                "file": "Examine/Custom indexing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,11 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8972b5eee0f5e14e",
+  "active": "d6754185096991e7",
   "lastOpenFiles": [
+    "Examine/Value Sets.md",
+    "Examine/Index rebuilding.md",
+    "Examine/Custom indexing.md",
+    "Examine/Searching.md",
+    "Examine/Training.md",
+    "Examine/Index.md",
+    "Default interface implementation/Default interface implementation.md",
     "Nuget/Nuget sources.md",
     "Repositories/Services should be in Core.md",
-    "Conventions for language files.md",
-    "Repositories/Non-nullable collections.md"
+    "Conventions for language files.md"
   ]
 }
